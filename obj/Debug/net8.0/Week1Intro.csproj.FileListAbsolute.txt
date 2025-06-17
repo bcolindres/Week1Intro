@@ -1,0 +1,14 @@
+/home/coder/Week1Intro/bin/Debug/net8.0/Week1Intro
+/home/coder/Week1Intro/bin/Debug/net8.0/Week1Intro.deps.json
+/home/coder/Week1Intro/bin/Debug/net8.0/Week1Intro.runtimeconfig.json
+/home/coder/Week1Intro/bin/Debug/net8.0/Week1Intro.dll
+/home/coder/Week1Intro/bin/Debug/net8.0/Week1Intro.pdb
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.AssemblyInfoInputs.cache
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.AssemblyInfo.cs
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.csproj.CoreCompileInputs.cache
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.dll
+/home/coder/Week1Intro/obj/Debug/net8.0/refint/Week1Intro.dll
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.pdb
+/home/coder/Week1Intro/obj/Debug/net8.0/Week1Intro.genruntimeconfig.cache
+/home/coder/Week1Intro/obj/Debug/net8.0/ref/Week1Intro.dll
